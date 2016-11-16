@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "yarn": "^0.17.2"
+  },
+  "dependencies": {
+    "mongoose": "^4.6.8"
   }
 }
