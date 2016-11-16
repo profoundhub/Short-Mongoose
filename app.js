@@ -3,12 +3,9 @@
  * Module dependencies.
  */
 
+var express = require('express');
+var http = require('http');
+var path = require('path');
+var fs = require('fs');
 
-// all environments
-
-
-// development only
-
-
-//load all files in models dir
-
+var app = express();
